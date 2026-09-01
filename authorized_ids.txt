@@ -1,0 +1,5 @@
+# CyberNova Authorized IDs
+# Format: satu ID per baris
+# Tambahkan ID user yang diizinkan di sini
+
+# Contoh ID (ganti dengan ID asli)
